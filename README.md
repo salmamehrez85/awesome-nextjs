@@ -292,3 +292,6 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+
+* [NextLaunch](https://next-launch-bdek.vercel.app/) - Production-ready Next.js 15 SaaS starter kit built with React 19, TypeScript, Tailwind CSS v4, and Shadcn UI.
